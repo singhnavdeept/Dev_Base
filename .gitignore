@@ -9,6 +9,20 @@ __pycache__/
 *.pyd
 .venv/
 env/
+# Large artifacts
+*.zip
+*.tar
+*.tar.gz
+
+
+
+# Data
+data/
+datasets/
+
+# Notebook outputs
+*.ipynb
+
 
 # Jupyter
 .ipynb_checkpoints/
