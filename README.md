@@ -8,6 +8,7 @@ The intent is clarity over volume: projects and notes are grouped by domain, doc
 
 ## Repository Structure
 
+```
 Dev_Base/
 │
 ├── 01_Notes/
@@ -75,7 +76,7 @@ Dev_Base/
 │   └── README.md
 │
 └── MASTER_README.md
-
+```
 
 
 
