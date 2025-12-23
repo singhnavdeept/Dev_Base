@@ -7,7 +7,7 @@ The intent is clarity over volume: projects and notes are grouped by domain, doc
 ---
 
 ## Repository Structure
-
+```
 Dev_Base/
 │
 ├── 01_Notes/
@@ -76,7 +76,7 @@ Dev_Base/
 │
 └── MASTER_README.md
 
-
+```
 
 
 Each top-level directory contains its own `README.md` describing scope, assumptions, and notable work.
@@ -118,6 +118,3 @@ Navdeep Singh
 🔗 LinkedIn: https://www.linkedin.com/in/navdeepsinghjour
 
 ---
-
-*This repository reflects an ongoing commitment to building, understanding, and documenting systems with rigor and restraint.*
-
