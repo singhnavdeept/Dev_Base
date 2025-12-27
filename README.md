@@ -114,7 +114,7 @@ Utility scripts and small automation workflows used for local development, exper
 ## Contact
 
 Navdeep Singh  
-📧 navdeepaph@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/navdeepsinghjour
+📧 navdeepaph@gmail.com & aaryankalia165@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/navdeepsinghjour & https://www.linkedin.com/in/aaryan-kalia/
 
 ---
