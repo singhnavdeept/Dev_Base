@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Data_Engineering/Data Fundamentals.md",
+                "file": "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/MSE_Loss_Derivation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Fundamentals"
+              "title": "MSE_Loss_Derivation"
+            }
+          },
+          {
+            "id": "594383436ce680af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Simple_Linear_Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple_Linear_Regression"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +212,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "4087b0a335a520f5",
+  "active": "594383436ce680af",
   "lastOpenFiles": [
-    "02_Data_Engineering/Rushed topics for mcq.md",
-    "02_Data_Engineering/Data Fundamentals.md",
-    "02_Data_Engineering/13_Max Sum of the Contiguous SubArray.py"
+    "03_Machine_Learning/machine learning over .pdf",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Simple_Linear_Regression.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/R2_Adjusted.md",
+    "03_Machine_Learning/01_SUPERVISED/LINEAR_REGRESSION_INDEX.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/RMSE.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/MSE.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/MAE.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/Multicollinearity_VIF.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/Heteroscedasticity.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/QQ_Plots.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/Residual_Plots.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/Learning_Rate_Schedules.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/MiniBatch_GD.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/Stochastic_GD.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/Batch_Gradient_Descent.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/Analytical_Gradients.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/Normal_Equation.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/Convexity_of_MSE.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/MSE_Loss_Derivation.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/LINE_Assumptions.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Error_Term_Interpretation.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Design_Matrix_Formulation.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Multiple_Linear_Regression.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory 1",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory",
+    "03_Machine_Learning/Index/Ml_Master_INDEX.md",
+    "03_Machine_Learning/Index/CROSS_CUTTING_INDEX.md",
+    "03_Machine_Learning/Index/UNSUPERVISED_INDEX.md",
+    "03_Machine_Learning/01_SUPERVISED/Linear_Regression",
+    "03_Machine_Learning/01_SUPERVISED",
+    "03_Machine_Learning/Index"
   ]
 }
