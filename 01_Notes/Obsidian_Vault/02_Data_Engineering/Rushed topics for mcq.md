@@ -7,9 +7,9 @@
 	    
 	- [x] OLTP vs OLAP systems
 	    
-	- [ ] Row-oriented vs Column-oriented storage
+	- [x] Row-oriented vs Column-oriented storage
 	    
-	- [ ] Schema-on-write vs Schema-on-read
+	- [x] Schema-on-write vs Schema-on-read
 	    
 	- [ ] Data granularity and aggregation levels
 	    
@@ -18,7 +18,7 @@
 
 
 
-- [ ] ### 2. Databases & Storage Systems
+- [ ] ### [[2. Databases & Storage Systems]]
 
 	- [ ] Primary key, foreign key, indexing
 	    

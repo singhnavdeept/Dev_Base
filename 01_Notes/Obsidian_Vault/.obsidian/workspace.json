@@ -1,70 +1,39 @@
 {
   "main": {
-    "id": "4a6e8f4f6692b9fd",
+    "id": "6fc6223aaeb4d23a",
     "type": "split",
     "children": [
       {
-        "id": "b9f9cf14315c778a",
+        "id": "328b3b75b7fd7a72",
         "type": "tabs",
         "children": [
           {
-            "id": "06a45bfa6e7f90b0",
+            "id": "3a3562b55e337ed4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02_Data_Engineering/Data Fundamentals.md",
-                "mode": "source",
-                "source": false
+                "file": "03_Machine_Learning/machine learning over .pdf"
               },
-              "icon": "lucide-file",
-              "title": "Data Fundamentals"
-            }
-          },
-          {
-            "id": "4087b0a335a520f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/MSE_Loss_Derivation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MSE_Loss_Derivation"
-            }
-          },
-          {
-            "id": "594383436ce680af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Simple_Linear_Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simple_Linear_Regression"
+              "icon": "lucide-file-text",
+              "title": "machine learning over"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a97992d00c1a6034",
+    "id": "780a73fd1be5ba29",
     "type": "split",
     "children": [
       {
-        "id": "3e7d0b328869ae7c",
+        "id": "f87dbefcef7e5ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "5911373b7c6c0b3c",
+            "id": "d3efa20e4e08955e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +46,7 @@
             }
           },
           {
-            "id": "5f04ae1617523fa2",
+            "id": "f97df7e9812feeb4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +63,7 @@
             }
           },
           {
-            "id": "cd612afacab4fe8b",
+            "id": "380019936a2594b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +79,19 @@
     "width": 300
   },
   "right": {
-    "id": "9862511dc5d09c86",
+    "id": "a699bca8138465e2",
     "type": "split",
     "children": [
       {
-        "id": "dff517398367c071",
+        "id": "b682490bf5f3a41c",
         "type": "tabs",
         "children": [
           {
-            "id": "e29fb4c3e69873c5",
+            "id": "809d7879aec1ae14",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Data_Engineering/Data Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Fundamentals"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "cf1ae12bfa4cda7d",
+            "id": "6b76650e7437c071",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Data_Engineering/Data Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Fundamentals"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "9f5bee6256053735",
+            "id": "3c8f6bddf4afa1d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +133,7 @@
             }
           },
           {
-            "id": "e7694a0a0559545e",
+            "id": "726a0de1e3bab4c6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,18 +147,17 @@
             }
           },
           {
-            "id": "f6b7d11107f359d6",
+            "id": "21e11d5e387af9ea",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Data_Engineering/Data Fundamentals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Fundamentals"
+              "title": "Outline"
             }
           }
         ]
@@ -212,42 +178,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "594383436ce680af",
+  "active": "3a3562b55e337ed4",
   "lastOpenFiles": [
-    "03_Machine_Learning/machine learning over .pdf",
+    "03_Machine_Learning/Machine Learning Navigation.md",
     "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Simple_Linear_Regression.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/R2_Adjusted.md",
-    "03_Machine_Learning/01_SUPERVISED/LINEAR_REGRESSION_INDEX.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/RMSE.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/MSE.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics/MAE.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Metrics",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/Multicollinearity_VIF.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/Heteroscedasticity.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/QQ_Plots.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics/Residual_Plots.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Diagnostics",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/Learning_Rate_Schedules.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/MiniBatch_GD.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/Stochastic_GD.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization/Batch_Gradient_Descent.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Optimization",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/Analytical_Gradients.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/Normal_Equation.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/Convexity_of_MSE.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics/MSE_Loss_Derivation.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Mathematics",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/LINE_Assumptions.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Error_Term_Interpretation.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Design_Matrix_Formulation.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory/Multiple_Linear_Regression.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory 1",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression/Theory",
-    "03_Machine_Learning/Index/Ml_Master_INDEX.md",
-    "03_Machine_Learning/Index/CROSS_CUTTING_INDEX.md",
-    "03_Machine_Learning/Index/UNSUPERVISED_INDEX.md",
-    "03_Machine_Learning/01_SUPERVISED/Linear_Regression",
-    "03_Machine_Learning/01_SUPERVISED",
-    "03_Machine_Learning/Index"
+    "03_Machine_Learning/01_SUPERVISED/LINEAR_REGRESSION_INDEX.md"
   ]
 }
